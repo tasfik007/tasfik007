@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
-[![Resume Badge](https://img.shields.io/badge/-Tasfik_Resume-4a148c?style=flat-square&logo=darkreader&logoColor=white&link=https://drive.google.com/file/d/1y0Guyi4LZYRVhUr49wayGzXL07k0p9N5/view?usp=sharing)](https://drive.google.com/file/d/1y0Guyi4LZYRVhUr49wayGzXL07k0p9N5/view?usp=sharing)
+[![Resume Badge](https://img.shields.io/badge/-Tasfik_Resume-4a148c?style=flat-square&logo=dark-reader&logoColor=white&link=https://drive.google.com/file/d/1y0Guyi4LZYRVhUr49wayGzXL07k0p9N5/view?usp=sharing)](https://drive.google.com/file/d/1y0Guyi4LZYRVhUr49wayGzXL07k0p9N5/view?usp=sharing)
 [![Github Badge](https://img.shields.io/badge/-tasfik007-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/tasfik007)](https://github.com/tasfik007)
 [![Linkedin Badge](https://img.shields.io/badge/-tasfik007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasfik007/)](https://www.linkedin.com/in/tasfik007/)
 [![Facebook Badge](https://img.shields.io/badge/-tasfik007-2196f3?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tasfik007)](https://www.facebook.com/tasfik007)
