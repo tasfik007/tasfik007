@@ -7,7 +7,7 @@
 [![Facebook Badge](https://img.shields.io/badge/-tasfik007-2196f3?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/tasfik007)](https://www.facebook.com/tasfik007) <br>
 [![Gmail Badge](https://img.shields.io/badge/-tasfikrahman007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasfikrahman007@gmail.com)](mailto:tasfikrahman007@gmail.com)
 <br>
-![Tasfik's github stats](https://github-readme-stats.vercel.app/api?username=tasfik007&hide=["issues"]&show_icons=true)
+![Tasfik's github stats](https://github-readme-stats.vercel.app/api?username=tasfik007&show_icons=true&theme=radical)
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tasfik007.tasfik007)
 
