@@ -11,14 +11,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tasfik007.tasfik007)
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tasfik007&repo=Bank-Transaction-Minimize&theme=prussian)](https://github.com/tasfik007/Bank-Transaction-Minimize)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tasfik007&repo=nasa-today&theme=prussian)](https://github.com/tasfik007/nasa-today)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tasfik007&repo=Maternal-Child-Health-Care-and-Children-Support-System&theme=prussian)](https://github.com/tasfik007/Maternal-Child-Health-Care-and-Children-Support-System)
-
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tasfik007&repo=DonorInTouch&theme=prussian)](https://github.com/tasfik007/DonorInTouch)
-
 
 <!--
 **tasfik007/tasfik007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
