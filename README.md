@@ -12,7 +12,7 @@
 
 <h3>The project I am currently working on: </h3>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tasfik007&repo=DonorInTouch&theme=vue-dark&show_icons=true)](https://github.com/tasfik007/DonorInTouch)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=tasfik007&repo=NLP-NoteBooks&theme=vue-dark&show_icons=true)](https://github.com/tasfik007/NLP-NoteBooks)
 
 
 
