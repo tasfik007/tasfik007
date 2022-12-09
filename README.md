@@ -3,8 +3,8 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
 
 
-[![Github Badge](https://img.shields.io/badge/-tasfik007-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/tasfik007)](link=https://github.com/tasfik007)
-[![Linkedin Badge](https://img.shields.io/badge/-tasfik007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasfik007/)]([linkedin](https://www.linkedin.com/in/tasfik007/))
+[![Github Badge](https://img.shields.io/badge/-tasfik007-000000?style=flat-square&logo=github&logoColor=white&link=https://github.com/tasfik007)](https://github.com/tasfik007)
+[![Linkedin Badge](https://img.shields.io/badge/-tasfik007-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tasfik007/)](https://www.linkedin.com/in/tasfik007/))
 [![Gmail Badge](https://img.shields.io/badge/-tasfikrahman007@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tasfikrahman007@gmail.com)](mailto:tasfikrahman007@gmail.com)
 <br> <br>
 ![Tasfik's github stats](https://github-readme-stats.vercel.app/api?username=tasfik007&show_icons=true&theme=algolia)
