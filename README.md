@@ -40,6 +40,10 @@
 <code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="nextJs" height="30"/></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tasfik007&show_icons=true&locale=en&layout=compact" alt="tasfik007" /></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=tasfik007&show_icons=true&locale=en" alt="tasfik007" /></p>
+
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=tasfik007.tasfik007)
 
 
